@@ -1,0 +1,14 @@
+C:\Users\Rosso\Desktop\EndeligInnlev\The_game\BazaarOfTheBizarre2\.vs\BazaarOfTheBizarre2\lut\0\b\NUnit3.TestAdapter.dll
+C:\Users\Rosso\Desktop\EndeligInnlev\The_game\BazaarOfTheBizarre2\.vs\BazaarOfTheBizarre2\lut\0\b\nunit.engine.dll
+C:\Users\Rosso\Desktop\EndeligInnlev\The_game\BazaarOfTheBizarre2\.vs\BazaarOfTheBizarre2\lut\0\b\nunit.engine.api.dll
+C:\Users\Rosso\Desktop\EndeligInnlev\The_game\BazaarOfTheBizarre2\.vs\BazaarOfTheBizarre2\lut\0\b\Mono.Cecil.dll
+C:\Users\Rosso\Desktop\EndeligInnlev\The_game\BazaarOfTheBizarre2\.vs\BazaarOfTheBizarre2\lut\0\b\Mono.Cecil.Pdb.dll
+C:\Users\Rosso\Desktop\EndeligInnlev\The_game\BazaarOfTheBizarre2\.vs\BazaarOfTheBizarre2\lut\0\b\Mono.Cecil.Mdb.dll
+C:\Users\Rosso\Desktop\EndeligInnlev\The_game\BazaarOfTheBizarre2\.vs\BazaarOfTheBizarre2\lut\0\b\Mono.Cecil.Rocks.dll
+C:\Users\Rosso\Desktop\EndeligInnlev\The_game\BazaarOfTheBizarre2\.vs\BazaarOfTheBizarre2\lut\0\b\BazaarOfTheBizarre2.exe.config
+C:\Users\Rosso\Desktop\EndeligInnlev\The_game\BazaarOfTheBizarre2\.vs\BazaarOfTheBizarre2\lut\0\b\BazaarOfTheBizarre2.exe
+C:\Users\Rosso\Desktop\EndeligInnlev\The_game\BazaarOfTheBizarre2\.vs\BazaarOfTheBizarre2\lut\0\b\BazaarOfTheBizarre2.pdb
+C:\Users\Rosso\Desktop\EndeligInnlev\The_game\BazaarOfTheBizarre2\.vs\BazaarOfTheBizarre2\lut\0\i\BazaarOfTheBizarre2\Debug\BazaarOfTheBizarre2.csprojResolveAssemblyReference.cache
+C:\Users\Rosso\Desktop\EndeligInnlev\The_game\BazaarOfTheBizarre2\.vs\BazaarOfTheBizarre2\lut\0\i\BazaarOfTheBizarre2\Debug\BazaarOfTheBizarre2.csproj.CoreCompileInputs.cache
+C:\Users\Rosso\Desktop\EndeligInnlev\The_game\BazaarOfTheBizarre2\.vs\BazaarOfTheBizarre2\lut\0\i\BazaarOfTheBizarre2\Debug\BazaarOfTheBizarre2.exe
+C:\Users\Rosso\Desktop\EndeligInnlev\The_game\BazaarOfTheBizarre2\.vs\BazaarOfTheBizarre2\lut\0\i\BazaarOfTheBizarre2\Debug\BazaarOfTheBizarre2.pdb
