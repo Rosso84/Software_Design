@@ -13,17 +13,17 @@ The main goals for these classes were as follows:
 
 4.Get more familiar with unit testing and be familiar with TDD (test driven developement)
 
-5.Get familiar with Background and conctents of UML standards
+5.Get familiar with Background and contents of UML standards
 
 6.Get known with pairprogramming and how it can affect software projects
 
-7.Get familiar with design guidelines and patterns and how it is veryoften used
+7.Get familiar with design guidelines and patterns and how it is very often used
 
 8.Get known with refactoring of a messy code
 
-9.Understand the use of Locking and how it can be used to kode thread safe
+9.Understand the use of Locking and how it can be used to code thread safe
 
-10.Explain the prinsipples of eventhandling
+10.Explain the principles of eventhandling
 
 11.To have a overview  and know the basic syntaxes of the programming language C# , such as properties and operators, and know the
    UML diagrams : Use case, calssdiagrams and sequencediagrams.
